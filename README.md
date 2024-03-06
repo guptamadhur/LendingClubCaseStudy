@@ -257,12 +257,11 @@ Hereby we come to an end of the EDA of the loan data set and finding some of the
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- Python - version 3.11
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- datetime
+- Python - version 3.11.4
+- Matplotlib - version 3.7.1
+- Numpy - version 1.24.3
+- Pandas - version 1.5.3
+- Seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
