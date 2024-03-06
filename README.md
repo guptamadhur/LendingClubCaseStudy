@@ -275,7 +275,7 @@ Give credit here.
  - Tejas Hankare
 
 ## Contact
-Created by [@guptamadhur] and [@tejas-hankare] - feel free to contact us!
+Created by [@guptamadhur](https://github.com/guptamadhur/) and [@tejas-hankare](https://github.com/tejas-hankare/) - feel free to contact us!
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT, Bangalore by Upgrad.
 
