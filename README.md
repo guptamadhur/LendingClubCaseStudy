@@ -212,7 +212,6 @@ Here is the information on this particular data set:
     </tr>
   </tbody>
 </table>
-----
 
 ## Exploratory Data Analysis Steps
 - Step 1: Import the necessary libraries
