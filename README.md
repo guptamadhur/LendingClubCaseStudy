@@ -245,8 +245,8 @@ Give credit here.
 - Upgrad Team and instructors
 
 ## Contributors
- - Madhur Gupta
  - Tejas Hankare
+ - Madhur Gupta
 
 ## Contact
 Created by [@guptamadhur] and [@tejas-hankare] - feel free to contact us!
